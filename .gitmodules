@@ -1,0 +1,3 @@
+[submodule "twitter-following-visualiser"]
+	path = twitter-following-visualiser
+	url = https://github.com/thehanimo/twitter-following-visualiser
